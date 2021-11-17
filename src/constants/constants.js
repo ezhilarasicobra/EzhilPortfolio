@@ -29,9 +29,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2016, text: 'Started my journey as a "CONSULTANT" in Sutherland global solutions '},
+  { year: 2017, text: 'Started my journey as a PROGRAMMER ANALYST With Cognizant Teachnology Solutions ', },
+  { year: 2018, text: 'Worked as a Qlikview support Engineer', },
+  { year: 2019, text: 'Moved to RPA - blueprism Technology', },
+  { year: 2020, text: 'Been responsible to support more than 30 BOTS in production', },
+  { year: 2021, text: 'Started my Journey with MERN STACK Development', },
 ];

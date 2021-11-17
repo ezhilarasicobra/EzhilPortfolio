@@ -6,11 +6,22 @@ import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './Techn
 const Technologies = () =>  (
   <Section id="tech">
     <SectionDivider divider />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle>Skills</SectionTitle>
     <SectionText>
-      I've learned and explored lot of Technologies releated to MERN STACK development.
+     As a perform of IT interset, I have learnt various technologies like MERN and tools like Qlikview, RPA - BLueprism and Automation Anywhere.
     </SectionText>
     <List>
+    <ListItem>
+        <picture>
+          <DiFirebase size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>JAVASCRIPT,HTML,CSS</ListTitle>
+          <ListParagraph>
+          Profound Knowledge with JAVASCRIPT,HTML,CSS
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
       <ListItem>
         <picture>
           <DiReact size="3rem" />

@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         I am MERN Stack developer
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={props.handleClick}>Resume</Button>
       </LeftSection>
     </Section>
   </>
