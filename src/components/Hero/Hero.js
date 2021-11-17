@@ -15,7 +15,12 @@ const Hero = (props) => (
         <SectionText>
         I am MERN Stack developer
         </SectionText>
-        <Button onClick={props.handleClick}>Resume</Button>
+        <Button>
+<a href='https://docs.google.com/document/d/1hZqYLDreydTP7iEGpOzkPXZqj-amkPr0/edit?usp=sharing&ouid=105244502179720508751&rtpof=true&sd=true'download="Ezhilarasi_Thirunavukkarasu-pdf.pdf" target="_blank" >
+  Resume
+</a>
+
+        </Button>
       </LeftSection>
     </Section>
   </>
