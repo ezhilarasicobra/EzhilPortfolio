@@ -4,9 +4,8 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { Title: "Automation" , text: 'Have worked in more than 10 automation enhancements'},
-  { Title: "Enthuist", text: 'Very Keen in learning new technologies ', },
-  { Title: "Interest", text: 'Learning more about chat Application using socket IO', },
+  { Title: "Automation" , text: 'Have worked in more than 10 automation enhancements.'},
+  { Title: "Interest", text: 'Interested in Learning AI integeration.', },
   
 ];
 

@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Skills</SectionTitle>
     <SectionText>
-     As a perform of IT interset, I have learnt various technologies like MERN and tools like Qlikview, RPA - BLueprism and Automation Anywhere.
+     As a person of IT interset, I have learnt various technologies like ReactJS,NodeJS,Express,MongoDB and tools like Qlikview, RPA - BLueprism and Automation Anywhere.
     </SectionText>
     <List>
     <ListItem>
