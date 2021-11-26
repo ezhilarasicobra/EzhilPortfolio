@@ -22,8 +22,8 @@ export const projects = [
     description: "I have created an Advise application with ALAN Artifical Intelligence. Where we can able to get an advise from the advise Guru.",
       image: '/images/4.png',
       tags: ['React', '', '', 'Alan AI'],
-    source:'https://advise-app-using-ai.netlify.app/',
-    visit: 'https://github.com/ezhilarasicobra/AdviseAppusing-ALAN',
+    visit:'https://advise-app-using-ai.netlify.app/',
+    source: 'https://github.com/ezhilarasicobra/AdviseAppusing-ALAN',
     id: 2,
   },{
     title: 'Lyric Finder',
@@ -33,6 +33,24 @@ export const projects = [
     source:'https://github.com/ezhilarasicobra/spotifynodejs',
     visit: 'https://github.com/ezhilarasicobra/spotifyreact',
     id: 3,
+  },
+  {
+    title: 'My Blog',
+    description: "This is a simple blog application with authentication feature, where other pleople can like the posts which you have upadted on your account",
+      image: '/images/1.png',
+      tags: ['MongoDB', 'Express', 'React', 'Node'],
+    source:'https://github.com/ezhilarasicobra/MyBLOGReactJS',
+    visit: 'https://myblogapplication.netlify.app/',
+    id: 4,
+  },
+  {
+    title: 'Travel Companion',
+    description: "This is Travel Application to track the places you have been visited and also can rate the place according to your likes. Can also view the places other have visted in the globe",
+      image: '/images/travel.png',
+      tags: ['Mongo DB', 'Express', 'React', 'Node', 'MapBox'],
+    source:'https://github.com/ezhilarasicobra/TravelPINreactjs',
+    visit: 'https://travel-pin-application.netlify.app',
+    id: 5,
   }
 
 ];
